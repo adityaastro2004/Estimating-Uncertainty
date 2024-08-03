@@ -74,6 +74,7 @@ This repository contains the following Folders:
 ## Results
 
 Results obtained from running the notebooks will be displayed within the notebook itself.
+In some jupyter notebooks, results will be displayed in .html files.
 
 ## Contributing
 
